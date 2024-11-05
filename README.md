@@ -1,5 +1,5 @@
 # bookbot
 
-this project is for books :) 
+this project is for analysing books :) 
 
     really!!
